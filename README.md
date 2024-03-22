@@ -1,3 +1,3 @@
 <h1>Silver Hawk Construction Project</h1>
 
-<h4>In this project I have used HTML and CSS languages.</h4>
+<h5>In this project, I have used HTML for structuring the content and CSS for styling it up </h5>
